@@ -62,3 +62,50 @@ Ces mécanismes sont essentiels pour optimiser l’usage des adresses IP, sécur
 ```bash
 git clone https://github.com/votre_nom_utilisateur/tp-nat-pat.git
 cd tp-nat-pat
+```
+### 2. **Parcourir la Documentation**
+
+Consultez le dossier `documentation/` pour des guides d'analyse détaillés.
+
+### 3. **Ouvrir les Captures de Paquets**
+
+1. Lancez **Cisco Packet Tracer**.
+2. Importez les fichiers `.pka` et '.pkt' disponibles dans le dossier `Réseaux/`.
+3. Utilisez les différents scénarios pour configurer et analyser les réseaux.
+
+---
+## 👉 **Fonctionnalités Clés de Cisco Packet Tracer**
+- **Création de réseaux virtuels** : Construisez des topologies réseau complètes avec des routeurs, commutateurs et autres équipements Cisco.
+- **Simulation de protocoles réseau** : Expérimentez avec des protocoles comme **ICMP**, **TCP**, **UDP**, **HTTP**, **FTP**.
+- **Outils de diagnostic** : Utilisez les commandes `ping`, `traceroute` et d'autres outils pour dépanner les réseaux.
+- **Configuration des services** : Apprenez à configurer **DHCP**, **DNS**, **NAT**, et d'autres services essentiels.
+- **Prise en charge des réseaux sans fil** : Simulez des réseaux Wi-Fi avec des points d'accès et des appareils mobiles.
+- **Simulation d'IoT** : Intégrez et configurez des appareils connectés pour des scénarios de maison intelligente.
+
+---
+
+## 💡 **Bonnes Pratiques**
+
+- **Sauvegardez régulièrement vos configurations** pour éviter toute perte de données.
+- **Utilisez Utilisez des annotations** pour documenter vos topologies réseau.
+- **Testez différents scénarios** pour comprendre le comportement des protocoles.
+- **Expérimentez avec des erreurs de configuration** pour améliorer vos compétences en dépannage.
+
+---
+
+## 📚 **Ressources Utiles**
+
+- [Cours sur le NAT]([https://www.netacad.com/courses/packet-tracer](https://www.it-connect.fr/chapitres/nat-translation-dadresse/))
+- [Cours sur le NAT/PAT]([https://www.netacad.com/](https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/))
+- [Documentation Packet Tracer](https://www.netacad.com/portal/resources/packet-tracer)
+
+---
+
+## 🌍 **Licence**
+
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
+
+---
+
+### 🗓 **Date de Création**
+Janvier 2025
